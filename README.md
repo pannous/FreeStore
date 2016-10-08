@@ -4,6 +4,6 @@ Free as in liberty, the greatest goods of civilization.
 [Browse store](xx)
 [Upload app](xx)
 
-In Germany we hate political walls. Walled garden App Stores are no exception.
+We hate political walls. Walled garden App Stores are no exception.
 We love tearing down walls.
 ![](freedom wall.jpg)
